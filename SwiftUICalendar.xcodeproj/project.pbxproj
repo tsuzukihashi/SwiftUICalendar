@@ -15,6 +15,7 @@
 		DAE6D526239567370045EB15 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DAE6D524239567370045EB15 /* LaunchScreen.storyboard */; };
 		DAE6D531239567370045EB15 /* SwiftUICalendarTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAE6D530239567370045EB15 /* SwiftUICalendarTests.swift */; };
 		DAE6D53C239567370045EB15 /* SwiftUICalendarUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAE6D53B239567370045EB15 /* SwiftUICalendarUITests.swift */; };
+		DAE6D54A239568B40045EB15 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = DAE6D549239568B40045EB15 /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		DAE6D537239567370045EB15 /* SwiftUICalendarUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftUICalendarUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		DAE6D53B239567370045EB15 /* SwiftUICalendarUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUICalendarUITests.swift; sourceTree = "<group>"; };
 		DAE6D53D239567370045EB15 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DAE6D549239568B40045EB15 /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 		DAE6D50D239567340045EB15 = {
 			isa = PBXGroup;
 			children = (
+				DAE6D549239568B40045EB15 /* .gitignore */,
 				DAE6D518239567340045EB15 /* SwiftUICalendar */,
 				DAE6D52F239567370045EB15 /* SwiftUICalendarTests */,
 				DAE6D53A239567370045EB15 /* SwiftUICalendarUITests */,
@@ -240,6 +243,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DAE6D54A239568B40045EB15 /* .gitignore in Resources */,
 				DAE6D526239567370045EB15 /* LaunchScreen.storyboard in Resources */,
 				DAE6D523239567370045EB15 /* Preview Assets.xcassets in Resources */,
 				DAE6D520239567370045EB15 /* Assets.xcassets in Resources */,
